@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmiraz&theme=radical)
 
 ### Here Are some practical languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmiraz&langs_count=8&theme=radical)
+[![Top Langs]<img align = "center" src = (https://github-readme-stats.vercel.app/api/top-langs/?username=mrmiraz&langs_count=8&theme=radical)/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mrmiraz&theme=<radical>" />
 
