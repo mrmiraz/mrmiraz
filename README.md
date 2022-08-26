@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am an enthusiastic learner and trying to build up an great career.
+### I am an enthusiastic learner and trying to build up a great career.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmiraz&theme=radical)
 
