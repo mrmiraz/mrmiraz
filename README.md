@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello folks! 👋
 
 <!--
 **mrmiraz/mrmiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##I am an enthusiastic learner and trying to build up an great career.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmiraz&theme=radical)
+Here Are some practical languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmiraz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
