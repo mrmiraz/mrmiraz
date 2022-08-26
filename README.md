@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am an enthusiastic learner and trying to build up a great career.
 
-<img width = 250 src = "https://github-readme-stats.vercel.app/api?username=mrmiraz&theme=radical"/>
+<img width = 400 src = "https://github-readme-stats.vercel.app/api?username=mrmiraz&theme=radical"/>
 
 ### Here Are some practical languages
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrmiraz&langs_count=8&theme=radical"/>
