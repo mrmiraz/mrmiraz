@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ### Here Are some practical languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmiraz&langs_count=8)]
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<mrmiraz>&theme=<THEME_NAME>" />
+
